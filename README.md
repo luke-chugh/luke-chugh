@@ -12,12 +12,11 @@
   
 **Talking about Personal Stuffs:**
 
-- 👨🏽‍💻 I’m a Software Engineer at [Presidio](https://www.presidio.com/);
-- 💼 I’m completed my Bachelor's degree in Information Technology at [VCET](https://vcet.ac.in/);
-- 🤔 My interests are with Web App Development 🖥️, Data Science 📊, Cricket 🏏, Space 🚀, etc..;
+- 💼 Pursuing my Master's degree in Data Science at [Northumbria University](https://www.northumbria.ac.uk/);
+- 🤔 My interests are in Data Science 📊, Billiards 🎱, Swimming 🏊, etc..;
 - 🎬 I love watching movies and I'm a big fan of MCU <img src="https://www.pngfind.com/pngs/m/173-1737725_captain-americas-shield-hd-png-download.png" width=15 height=15>
 - 💬 Ask me about anything, I am happy to help;
-- 📫 Please email via kishanlal0725@gmail.com or ping me on [LinkedIn](https://www.linkedin.com/in/kishan0725/) to reach me;
+- 📫 Please email via lukechughformal@gmail.com or ping me on [LinkedIn](https://www.linkedin.com/in/luke-chugh-2b2043181/) to reach me;
 <br/> 
 </em>
 
