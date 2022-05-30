@@ -33,22 +33,6 @@
 <code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" title="linux"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/scikit-learn/scikit-learn.png" title="sklearn"></code>
 
-### GitHub Stats
-
-<p align="center">
-  <a href = "https://github.com/kishan0725">
-<img src="https://github-readme-stats-aj8vj7k8x.vercel.app/api?username=kishan0725&show_icons=true&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151515&count_private=true&include_all_commits=true">
-  </a>
- </p>
- 
-### Top Languages
-
-<p align="center">
-<a href = "https://github.com/kishan0725">
-  <img src="https://github-readme-stats-aj8vj7k8x.vercel.app/api/top-langs/?username=kishan0725&layout=compact&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151515&card_width=400">
-</a>
-</p>
-
 ### Follow me
 
 [![Linkedin Badge](https://img.shields.io/badge/-Kishan%20Lal-blue?style=flat-circle&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kishan0725/)](https://www.linkedin.com/in/kishan0725/) [![Instagram Badge](https://img.shields.io/badge/-@kishan__07__25-e02c73?style=flat-circle&labelColor=e02c73&logo=Instagram&logoColor=white&link=https://www.instagram.com/kishan_07_25)](https://www.instagram.com/kishan_07_25) [![Twitter Badge](https://img.shields.io/badge/-@kishan0725-1ca0f1?style=flat-circle&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/kishan0725)](https://twitter.com/kishan0725) [![Quora Badge](https://img.shields.io/badge/-@Kishan--175-b92b27?style=flat-circle&labelColor=b92b27&logo=quora&logoColor=white&link=https://www.quora.com/profile/Kishan-175)](https://www.quora.com/profile/Kishan-175) [![GitHub Badge](https://img.shields.io/badge/-@kishan0725-24292e?style=flat-circle&labelColor=24292e&logo=github&logoColor=white&link=https://github.com/kishan0725)](https://github.com/kishan0725) [![Gmail Badge](https://img.shields.io/badge/-@kishanlal0725-d54b3d?style=flat-circle&labelColor=d54b3d&logo=gmail&logoColor=white&link=mailto:kishan0725@gmail.com)](mailto:kishan0725@gmail.com)
