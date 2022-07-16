@@ -30,7 +30,7 @@
 <code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" title="tensorflow"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" title="pytorch"></code>
 <code><img height="40" src="https://www.vectorlogo.zone/util/preview.html?image=/logos/plot_ly/plot_ly-ar21.svg" title="plotly"></code>
-<code><img height="40" src="https://www.vectorlogo.zone/util/preview.html?image=/logos/microsoft_powerbi/microsoft_powerbi-ar21.svg" title="PowerBI"></code>
+<code><img height="40" src="https://www.vectorlogo.zone/util/preview.html?image=/logos/microsoft_powerbi/microsoft_powerbi-ar21.svg" title="Power BI"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/heroku/heroku-original.svg" title="heroku"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/luke-chugh/My-Codes/main/Data%20Science%20Codes/Data/streamlit.webp" title="streamlit"></code>
 <code><img height="40" src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" title="flask"></code>
