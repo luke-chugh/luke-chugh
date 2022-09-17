@@ -125,11 +125,9 @@
 
 <p align="center">
 [![STATS (TROPHIES)](https://github-profile-trophy.vercel.app/?username=luke-chugh&theme=gruvbox&margin-w=15&margin-h=15&column=8)](https://github.com/luke-chugh)
-</p>
 
 <p align="center">
-[![GitHub activity](https://activity-graph.herokuapp.com/graph?username=luke-chugh&theme=react-dark)](https://github.com/miguelgfierro)
-</p>
+[![GitHub activity](https://activity-graph.herokuapp.com/graph?username=luke-chugh&theme=react-dark)](https://github.com/luke-chugh)
 
 ### Follow me
 
