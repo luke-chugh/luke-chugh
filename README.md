@@ -123,27 +123,11 @@
 </a>
 </p>
 
-### GitHub Stats
-
 <p align="center">
-  <a href = "https://github.com/kishan0725">
-<img src="https://github-readme-stats-aj8vj7k8x.vercel.app/api?username=kishan0725&show_icons=true&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151515&count_private=true&include_all_commits=true">
-  </a>
- </p>
- 
-### Top Languages
+[![STATS (TROPHIES)](https://github-profile-trophy.vercel.app/?username=luke-chugh&theme=gruvbox&margin-w=15&margin-h=15&column=8)](https://github.com/miguelgfierro)
 
-<p align="center">
-<a href = "https://github.com/kishan0725">
-  <img src="https://github-readme-stats-aj8vj7k8x.vercel.app/api/top-langs/?username=kishan0725&layout=compact&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151515&card_width=400">
-</a>
+[![GitHub activity](https://activity-graph.herokuapp.com/graph?username=luke-chugh&theme=react-dark)](https://github.com/miguelgfierro)
 </p>
-
-<p align="center">
-[![STATS (TROPHIES)](https://github-profile-trophy.vercel.app/?username=luke-chugh&theme=gruvbox&margin-w=15&margin-h=15&column=8)](https://github.com/luke-chugh)
-
-<p align="center">
-[![GitHub activity](https://activity-graph.herokuapp.com/graph?username=luke-chugh&theme=react-dark)](https://github.com/luke-chugh)
 
 ### Follow me
 
