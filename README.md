@@ -109,6 +109,22 @@
 <code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" title="linux"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" title="git"></code>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=luke-chugh&label=Profile%20views&color=blue&style=flat" alt="PROFILE VIEWS"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=luke-chugh&count_private=true&show_icons=true&theme=react&include_all_commits=true&hide=contribs" />
+</p>
+
+<p align="center">
+
+[![STATS (TROPHIES)](https://github-profile-trophy.vercel.app/?username=luke-chugh&theme=gruvbox&margin-w=15&margin-h=15&column=8)](https://github.com/miguelgfierro)
+
+[![GitHub activity](https://activity-graph.herokuapp.com/graph?username=luke-chugh&theme=react-dark)](https://github.com/miguelgfierro)
+
+</p>
+
 ### Follow me
 
 [![Linkedin Badge](https://img.shields.io/badge/-Luke%20Chugh-blue?style=flat-circle&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/luke-chugh-2b2043181/)](https://www.linkedin.com/in/luke-chugh-2b2043181/) [![Instagram Badge](https://img.shields.io/badge/-stoic__foodie-e02c73?style=flat-circle&labelColor=e02c73&logo=Instagram&logoColor=white&link=https://www.instagram.com/stoic_foodie/)](https://www.instagram.com/stoic_foodie/)  [![GitHub Badge](https://img.shields.io/badge/-luke--chugh-24292e?style=flat-circle&labelColor=24292e&logo=github&logoColor=white&link=https://github.com/luke-chugh)](https://github.com/luke-chugh) [![Gmail Badge](https://img.shields.io/badge/-lukechughformal-d54b3d?style=flat-circle&labelColor=d54b3d&logo=gmail&logoColor=white&link=mailto:lukechughformal@gmail.com)](mailto:lukechughformal@gmail.com)
