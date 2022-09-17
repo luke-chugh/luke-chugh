@@ -1,7 +1,7 @@
-## Hi there, I'm [Luke Chugh](https://www.linkedin.com/in/luke-chugh-2b2043181/)! <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Hi.gif" width=35 height=35>
+## Hi there, I'm [Luke Chugh](https://www.linkedin.com/in/luke-chugh-2b2043181/). Checkout My [Portfolio Website](https://lukechughformal.wixsite.com/lukechughportfolio)
+! <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Hi.gif" width=35 height=35>
 
-## Checkout My [Portfolio Website](https://lukechughformal.wixsite.com/lukechughportfolio)
-
+## 
 <p>
   <em>
     A <b>Data Enthusiast</b> <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Medal.gif" width=20 height=20> and a passionate self-taught <b>programmer</b> <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" width=35 height=25> looking for full time opportunities in data science.
