@@ -20,6 +20,76 @@
 <br/> 
 </em>
 
+## Skills :computer:
+
+
+<center>
+<br>
+<table align="center">
+<tbody align="center">
+ <tr>
+<td align="center" width="20%">
+<span><b><center>Machine Learning</center></b></span> 
+</td>
+
+<td align="center" width="20%">
+<span><b><center>Deep Learning</center></b></span> 
+</td>
+
+<td align="center" width="20%">
+<span><b><center>Data Science</center></b></span> 
+</td>
+</tr>
+
+<tr>
+<td align="center" width="20%">
+<span><b><center>MATLAB</center></b></span> 
+</td>
+
+<td align="center" width="20%">
+<span><b><center>Python</center></b></span> 
+</td>
+
+<td align="center" width="20%">
+<span><b><center>Computer Vision</center></b></span> 
+</td>
+</tr>
+
+<tr>
+<td align="center" width="20%">
+<span><b><center>Natural Language Processing</center></b></span> 
+</td>
+
+<td align="center" width="20%">
+<span><b><center>SQL</center></b></span> 
+</td>
+
+
+
+<td align="center" width="20%">
+<span><b><center>Pattern Recognition</center></b></span>
+</td>
+</tr>
+
+<tr>
+<td align="center" width="20%">
+<span><b><center>C++</center></b></span> 
+</td>
+
+<td align="center" width="20%">
+<span><b><center>Object Oriented Programming</center></b></span> 
+</td>
+
+<td align="center" width="20%">
+<span><b><center>Data Structures and Algorithms</center></b></span> 
+</td>
+</tr>
+
+</tbody>
+</table>
+</br>
+</center>
+
 ### Worked with 
 
 <code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" title="python"></code>
