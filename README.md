@@ -43,11 +43,11 @@
 
 <tr>
 <td align="center" width="20%">
-<span><b><center>R</center></b></span> 
+<span><b><center>Python</center></b></span> 
 </td>
 
 <td align="center" width="20%">
-<span><b><center>Python</center></b></span> 
+<span><b><center>R</center></b></span> 
 </td>
 
 <td align="center" width="20%">
