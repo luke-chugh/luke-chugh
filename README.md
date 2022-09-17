@@ -43,7 +43,7 @@
 
 <tr>
 <td align="center" width="20%">
-<span><b><center>MATLAB</center></b></span> 
+<span><b><center>R</center></b></span> 
 </td>
 
 <td align="center" width="20%">
@@ -73,7 +73,7 @@
 
 <tr>
 <td align="center" width="20%">
-<span><b><center>C++</center></b></span> 
+<span><b><center>Deployment</center></b></span> 
 </td>
 
 <td align="center" width="20%">
