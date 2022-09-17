@@ -1,6 +1,6 @@
 ## Hi there, I'm [Luke Chugh](https://www.linkedin.com/in/luke-chugh-2b2043181/)! <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Hi.gif" width=35 height=35>
 
-## Checkout My [Portfolio Website]([https://www.linkedin.com/in/luke-chugh-2b2043181/](https://lukechughformal.wixsite.com/lukechughportfolio))
+## Checkout My [Portfolio Website](https://www.linkedin.com/in/luke-chugh-2b2043181/](https://lukechughformal.wixsite.com/lukechughportfolio)
 
 <p>
   <em>
@@ -23,7 +23,6 @@
 </em>
 
 ## Skills :computer:
-
 
 <center>
 <br>
