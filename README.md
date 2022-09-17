@@ -51,7 +51,7 @@
 </td>
 
 <td align="center" width="20%">
-<span><b><center>Computer Vision</center></b></span> 
+<span><b><center>SQL</center></b></span> 
 </td>
 </tr>
 
@@ -61,7 +61,7 @@
 </td>
 
 <td align="center" width="20%">
-<span><b><center>SQL</center></b></span> 
+<span><b><center>Computer Vision</center></b></span> 
 </td>
 
 
