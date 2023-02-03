@@ -130,6 +130,7 @@
 
 </p>
 
+
 ### Follow me
 
 [![Linkedin Badge](https://img.shields.io/badge/-Luke%20Chugh-blue?style=flat-circle&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/luke-chugh-2b2043181/)](https://www.linkedin.com/in/luke-chugh-2b2043181/) [![Instagram Badge](https://img.shields.io/badge/-stoic__foodie-e02c73?style=flat-circle&labelColor=e02c73&logo=Instagram&logoColor=white&link=https://www.instagram.com/stoic_foodie/)](https://www.instagram.com/stoic_foodie/)  [![GitHub Badge](https://img.shields.io/badge/-luke--chugh-24292e?style=flat-circle&labelColor=24292e&logo=github&logoColor=white&link=https://github.com/luke-chugh)](https://github.com/luke-chugh) [![Gmail Badge](https://img.shields.io/badge/-lukechughformal-d54b3d?style=flat-circle&labelColor=d54b3d&logo=gmail&logoColor=white&link=mailto:lukechughformal@gmail.com)](mailto:lukechughformal@gmail.com)
