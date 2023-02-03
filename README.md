@@ -112,9 +112,7 @@
   <img src="https://komarev.com/ghpvc/?username=luke-chugh&label=Profile%20views&color=blue&style=flat" alt="PROFILE VIEWS"/>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=luke-chugh&count_private=true&show_icons=true&theme=react&include_all_commits=true&hide=contribs" />
-</p>
+
 
 <p align="center">
 <a href = "https://github.com/luke-chugh">
