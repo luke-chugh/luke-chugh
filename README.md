@@ -1,7 +1,7 @@
 ## Hi there, I'm [Luke Chugh](https://www.linkedin.com/in/luke-chugh-2b2043181/). Checkout My [Portfolio Website](https://lukechughformal.wixsite.com/lukechughportfolio)
 <p>
   <em>
-    A <b>Data Enthusiast</b> and a passionate self-taught <b>programmer</b> <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" width=35 height=25> looking for full time opportunities in data science.
+    A <b>Data Enthusiast</b> and a passionate self-taught <b>programmer</b> looking for full time opportunities in data science.
   </em>
 </p>
 
