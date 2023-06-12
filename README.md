@@ -1,10 +1,9 @@
 ## Hi there <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Hi.gif" width=35 height=35> I'm [Luke Chugh](https://www.linkedin.com/in/luke-chugh-2b2043181/). Checkout My [Portfolio Website](https://lukechughformal.wixsite.com/lukechughportfolio)
-
 <p>
   <em>
     A <b>Data Enthusiast</b> <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Medal.gif" width=20 height=20> and a passionate self-taught <b>programmer</b> <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" width=35 height=25> looking for full time opportunities in data science.
   </em>
- </p>
+</p>
 
 <img align="right" alt="Coder GIF" height=250 width=350 src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 
