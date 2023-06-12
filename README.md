@@ -12,7 +12,7 @@
   
 **Talking about Personal Stuffs:**
 
-- 💼 Pursuing my Master's degree in Data Science at [Northumbria University](https://www.northumbria.ac.uk/);
+- 💼 Completed my Master's degree in Data Science at [Northumbria University](https://www.northumbria.ac.uk/);
 - 🤔 My interests are in Data Science 📊, Billiards 🎱, Swimming 🏊, etc;
 - 🎬 I love watching movies and I'm a big fan of MCU <img src="https://www.pngfind.com/pngs/m/173-1737725_captain-americas-shield-hd-png-download.png" width=15 height=15>
 - 💬 Ask me about anything, I am happy to help;
