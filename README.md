@@ -1,4 +1,4 @@
-## Hi there, I'm [Luke Chugh](https://www.linkedin.com/in/luke-chugh-2b2043181/). Checkout My [Portfolio Website](https://lukechughformal.wixsite.com/lukechughportfolio)
+## Hi there, I'm [Luke Chugh](https://www.linkedin.com/in/luke-chugh/). Checkout My [Portfolio Website](https://lukechughformal.wixsite.com/lukechughportfolio)
 <p>
   <em>
     A <b>Data Enthusiast</b> and a passionate self-taught <b>programmer</b> looking for full time opportunities in data science.
